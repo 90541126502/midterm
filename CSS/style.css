@@ -22,7 +22,7 @@ body {
 /* Styling for the header section */
 #header {
     text-align: center;
-    background-image: url("/Images/header.png");
+    background-image: url("https://90541126502.github.io/midterm/Images/header.png");
     padding: 130px 100px 70px 100px;
     background-repeat: no-repeat;
     background-size: cover;
